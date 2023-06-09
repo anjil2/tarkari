@@ -254,7 +254,6 @@ width: 500px;
     background-color: var(--body-bg);
 }
 #section-service-container h1{
-    text-align: center;
     color:var(--text);
     margin-top: 1p0x;
     
@@ -351,7 +350,7 @@ width: 500px;
     align-items: center;
     border-radius: 10px;
     margin: 40px 15px;
-    box-shadow: 0 0 20px rgb(49, 129, 161);
+    box-shadow: 0 0 20px rgb(58, 58, 58);
 }
 .product:hover{
     margin-top: 15px;
